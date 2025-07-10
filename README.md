@@ -1,4 +1,4 @@
-# CO2, Temperature and Humidity Monitor with SCD30 Sensor
+# CO₂, Temperature and Humidity Monitor with SCD30 Sensor
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 
 
